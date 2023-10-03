@@ -1,0 +1,5 @@
+streamlit
+dotenv
+PyPDF2
+langchain
+htmlTemplates
