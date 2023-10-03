@@ -1,5 +1,5 @@
 absl-py==2.0.0
-accelerate==0.23.0
+accelerate==0.20.3
 aiobotocore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b3e4znaej2/croot/aiobotocore_1680004294920/work
 aiofiles==23.2.1
 aiohttp==3.8.5
