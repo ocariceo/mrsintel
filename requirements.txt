@@ -5,4 +5,4 @@ streamlit
 openai
 faiss-cpu
 altair
-tiktoken
+
