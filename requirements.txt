@@ -6,3 +6,4 @@ openai
 faiss-cpu
 altair
 pydantic==1.10.9
+pydantic-core==2.1.2
